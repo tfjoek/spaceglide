@@ -1,27 +1,18 @@
 /*
 =============== 
-tää kaikki on setup 
-ring ring ringa dinga
-tää kaikki on setup 
-ring ring ringa dinga
-tää kaikki on setup 
-ring ring ringa dinga
-tää kaikki on setup 
-ring ring ringa dinga
-tää kaikki on setup 
-ring ring ringa dinga
+tää kaikki on setup githubista
 ===============
 */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
 /*
 =============== 
-Variables
+variables
 ===============
 */
 
 :root {
-  /* dark shades of primary color*/
+
   --clr-primary-1: hsl(205, 86%, 17%);
   --clr-primary-2: hsl(205, 77%, 27%);
   --clr-primary-3: hsl(205, 72%, 37%);
@@ -78,9 +69,7 @@ Global Styles
 body {
   font-family: var(--ff-secondary);
   background-image: url("https://th.bing.com/th/id/R.19383d38b404d3cbd17d6aae7366dd03?rik=3k90pypJD4I2gQ&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20140624075820%2fleagueoflegends%2fimages%2f2%2f28%2fSummoners_Rift.jpg&ehk=OwcDvjGPas6xphspmuhKyNTBsxmUxB3mmmColvjVyDw%3d&risl=&pid=ImgRaw&r=0");
-  color: var(--clr-grey-1);
-  line-height: 1.5;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
 ul {
   list-style-type: none;
